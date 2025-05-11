@@ -1,6 +1,7 @@
 import Lab2.bmi as bmi
 
 
+
 def test_bmi_normal_weight():
     height=1.75
     weight=65
